@@ -46,3 +46,15 @@ udagram-api.postman_collection.json
 Classroom_Project_Instructions
 CODEOWNERS
 LICENSE.txt
+mock/
+
+
+
+backend-feed-deployment.yaml
+backend-user-deployment.yaml
+frontend-deployment.yaml
+reverseproxy-deployment.yaml
+backend-feed-service.yaml
+backend-user-service.yaml
+frontend-service.yaml
+reverseproxy-service.yaml
